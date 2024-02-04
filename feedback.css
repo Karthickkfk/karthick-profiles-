@@ -1,28 +1,35 @@
 body{
-    background-image:url(83-838296_web-designer-professional-website-background-images.jpg);
-    
-    
+    background-image:url(973482-new-office-desktop-background-3840x2160-for-retina.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-transform: capitalize;
+     
 }
+
 .b1{
     text-align: center;
-    
+    text-transform: capitalize;
+    text-decoration: none;
        
     margin-right: 500px;
     margin-left: 500px;
+  
 
 
 }
 .b2{
     text-align: center;
+    text-decoration: none;
     
-       
+    text-transform: capitalize;
     margin-right: 500px;
     margin-left: 500px;
 
 
 }
 form{
-    
+    text-transform: capitalize;
     text-align: center;
     margin: 250px 500px 250px 500px;
     

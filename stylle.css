@@ -1,18 +1,21 @@
 body{
    
     background-image: url(83-838296_web-designer-professional-website-background-images.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 
 }
 .kk{
     text-align: center;
-    
+    text-transform: capitalize;
        
     margin-right: 500px;
     margin-left: 500px;
 
 }
 .kk2{
-    
+    text-transform: capitalize;
      
     padding-top: 10px;
     padding-bottom: 10px;
@@ -23,7 +26,7 @@ body{
 }
 .kk3{
 
-    
+    text-transform: capitalize;
      margin: 50px;
     margin-right: 100px;
     padding-top: 10px;
@@ -34,20 +37,21 @@ body{
 
 }
 .kk4{
-    
+    text-transform: capitalize;
     padding-top: 50px;
     margin: 10px 250px 10px 250px;
+    text-decoration: none;
 
     text-align: center;
 }
 
 .f{
+    text-transform: capitalize;
+    text-decoration: none;
     text-align: center;
-    background-color: crimson;
-    margin: 20px 500px 20px 500px;
-    border-style: double;
-
+    text-size-adjust: 5px;
 }
 .ok{
+    text-transform: capitalize;
     display: flex;
 }
