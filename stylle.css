@@ -1,5 +1,7 @@
 body{
-   
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
     background-image: url(83-838296_web-designer-professional-website-background-images.jpg);
     background-repeat: no-repeat;
     background-position: center;
@@ -45,13 +47,18 @@ body{
     text-align: center;
 }
 
-.f{
-    text-transform: capitalize;
-    text-decoration: none;
-    text-align: center;
-    text-size-adjust: 5px;
-}
+
 .ok{
     text-transform: capitalize;
     display: flex;
 }
+a{
+
+    text-align: center;
+    text-size-adjust: 5px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: black;
+}
+
+    

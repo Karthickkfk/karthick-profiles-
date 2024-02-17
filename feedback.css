@@ -1,4 +1,8 @@
 body{
+    
+display: flex;
+flex-wrap: wrap;
+align-content: center;
     background-image:url(973482-new-office-desktop-background-3840x2160-for-retina.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -34,3 +38,9 @@ form{
     margin: 250px 500px 250px 500px;
     
 }
+a{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: black;
+  }
+    
