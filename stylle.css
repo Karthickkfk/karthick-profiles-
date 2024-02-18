@@ -34,16 +34,21 @@ body{
     padding-top: 10px;
     padding-bottom: 50px;
     padding-left: 10px;
-    padding-right: 10px;
+    padding-right: 10px
     
 
 }
 .kk4{
-    text-transform: capitalize;
-    padding-top: 50px;
-    margin: 10px 250px 10px 250px;
+   
     text-decoration: none;
+    text-transform: capitalize;
 
+   
+    margin-right: 500px;
+    margin-left: 500px;
+    
+    
+    
     text-align: center;
 }
 
@@ -62,7 +67,7 @@ a{
 }
 img{
 
-    display: flex;
+ display: flex;
 flex-wrap: wrap;
 align-content: center;
   }
