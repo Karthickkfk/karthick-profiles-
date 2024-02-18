@@ -66,11 +66,5 @@ a{
     text-transform: capitalize;
     color: black;
 }
-img{
-
- display: flex;
-flex-wrap: wrap;
-align-content: center;
-  }
 
     
