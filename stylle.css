@@ -1,7 +1,7 @@
 body{
     display: flex;
     flex-wrap: wrap;
-    align-content: center;
+   
    background-image: url(83-838296_web-designer-professional-website-background-images.jpg);
     background-repeat: no-repeat;
     background-position: center;
@@ -13,13 +13,13 @@ body{
     text-align: center;
     text-transform: capitalize;
        
-    margin-right: 500px;
-    margin-left: 500px;
+    margin-right: 400px;
+    margin-left: 400px;
 
 }
 .kk2{
     text-transform: capitalize;
-     
+     color: blueviolet;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
@@ -44,9 +44,10 @@ body{
     text-decoration: none;
     text-transform: capitalize;
 
-   
-    margin-right: 500px;
-    margin-left: 500px;
+    text-size-adjust: 5px;
+    text-decoration: none;
+    margin-right: 400px;
+    margin-left: 400px;
     
     
     
@@ -58,13 +59,20 @@ body{
     text-transform: capitalize;
     display: flex;
 }
-a{
+
+
+   
+
+.f{
 
     text-align: center;
-    text-size-adjust: 5px;
-    text-decoration: none;
+   
+   
+
+}    
+a{
     text-transform: capitalize;
     color: black;
+    text-size-adjust: 5px;
+    text-decoration: none;
 }
-
-    
